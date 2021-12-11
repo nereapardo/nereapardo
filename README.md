@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 const nerea = {
   pronouns: "she" | "her",
   code: [Javascript, HTML, CSS],
-  tools: [React, Node, Storybook, Tailwind, Bootstrap],
+  tools: [React, Node, Tailwind, Bootstrap],
 }
 ```
