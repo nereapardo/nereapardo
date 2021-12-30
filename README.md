@@ -21,3 +21,4 @@ const nerea = {
   tools: [React, Node, Tailwind, Bootstrap],
 }
 ```
+🔭 I’m currently working on my personal website
