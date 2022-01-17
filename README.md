@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 ```javascript
 const nerea = {
   pronouns: "she" | "her",
+  age: 26,
   code: [Javascript, HTML, CSS],
-  tools: [React, Node, Tailwind, Bootstrap],
+  tools: [React, Next, Node, Tailwind, Bootstrap]
 }
 ```
 
