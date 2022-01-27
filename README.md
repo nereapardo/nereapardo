@@ -17,8 +17,13 @@ Here are some ideas to get you started:
 ```javascript
 const nerea = {
   age: 26,
-  code: ['Javascript', 'HTML', 'CSS'],
-  tools: [React, Next, Node, Tailwind, Bootstrap]
+  role: 'Software Developer',
+  portfolio: 'www.nereapardo.com',
+  technologies: {
+    front: ['Javascript', 'React', 'Next.js', 'HTML', 'CSS', 'Tailwind CSS', 'Bootstrap'],
+    back: ['Node.js', 'Express.js', 'MongoDB', 'Mongoose'],
+    other: ['Git', 'Github', 'Jest', 'React testing library', 'Redux'],
+  }
 }
 ```
 
