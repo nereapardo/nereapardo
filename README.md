@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ```javascript
 const nerea = {
   age: 26,
-  code: [Javascript, HTML, CSS],
+  code: ['Javascript', 'HTML', 'CSS'],
   tools: [React, Next, Node, Tailwind, Bootstrap]
 }
 ```
