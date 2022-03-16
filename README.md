@@ -22,7 +22,7 @@ const nerea = {
   technologies: {
     front: ['Javascript', 'React', 'Next.js', 'HTML', 'CSS', 'Tailwind CSS', 'Bootstrap'],
     back: ['Node.js', 'Express.js', 'MongoDB', 'Mongoose'],
-    other: ['Git', 'Github', 'Jest', 'React testing library', 'Redux'],
+    other: ['Git', 'Github', 'Jest', 'React testing library'],
   }
 }
 ```
