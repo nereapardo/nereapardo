@@ -20,8 +20,8 @@ const nerea = {
   role: 'Software Developer',
   portfolio: 'www.nereapardo.com',
   technologies: {
-    front: ['Javascript', 'React', 'Next.js', 'HTML', 'CSS', 'Tailwind CSS', 'Bootstrap'],
-    back: ['Node.js', 'Express.js', 'MongoDB', 'Mongoose'],
+    front: ['Javascript', 'Typescript', 'React', 'Next.js', 'Redux', 'HTML', 'CSS', 'Tailwind CSS', 'Bootstrap'],
+    back:  ['Node.js', 'Express.js', 'MongoDB', 'Firebase'],
     other: ['Git', 'Github', 'Jest', 'React testing library'],
   }
 }
