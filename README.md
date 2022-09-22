@@ -21,7 +21,7 @@ const nerea = {
   portfolio: 'www.nereapardo.com',
   technologies: {
     front: ['Javascript', 'Typescript', 'React', 'Next.js', 'Redux', 'HTML', 'CSS', 'Tailwind CSS', 'Bootstrap'],
-    back:  ['Node.js', 'Express.js', 'MongoDB', 'Firebase'],
+    back:  ['Node.js', 'Express.js', 'MongoDB'],
     other: ['Git', 'Github'],
   }
 }
