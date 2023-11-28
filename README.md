@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ```javascript
 const nerea = {
-  age: 27,
+  age: 28,
   role: 'Software Developer',
   portfolio: 'www.nereapardo.com',
   technologies: {
